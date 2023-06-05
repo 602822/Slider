@@ -1,0 +1,4 @@
+﻿  Task9.cpp
+C:\Users\vefje\source\repos\Task9\Task9\resource.h(16,1): warning C4005: 'IDCANCEL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11133,1): message : see previous definition of 'IDCANCEL'
+  Task9.vcxproj -> C:\Users\vefje\source\repos\Task9\x64\Debug\Task9.exe

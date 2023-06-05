@@ -1,0 +1,12 @@
+C:\Users\vefje\source\repos\Solsystem1\Solsystem1\bin\Debug\net6.0\Solsystem1.deps.json
+C:\Users\vefje\source\repos\Solsystem1\Solsystem1\bin\Debug\net6.0\Solsystem1.dll
+C:\Users\vefje\source\repos\Solsystem1\Solsystem1\bin\Debug\net6.0\Solsystem1.pdb
+C:\Users\vefje\source\repos\Solsystem1\Solsystem1\obj\Debug\net6.0\Solsystem1.csproj.AssemblyReference.cache
+C:\Users\vefje\source\repos\Solsystem1\Solsystem1\obj\Debug\net6.0\Solsystem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vefje\source\repos\Solsystem1\Solsystem1\obj\Debug\net6.0\Solsystem1.AssemblyInfoInputs.cache
+C:\Users\vefje\source\repos\Solsystem1\Solsystem1\obj\Debug\net6.0\Solsystem1.AssemblyInfo.cs
+C:\Users\vefje\source\repos\Solsystem1\Solsystem1\obj\Debug\net6.0\Solsystem1.csproj.CoreCompileInputs.cache
+C:\Users\vefje\source\repos\Solsystem1\Solsystem1\obj\Debug\net6.0\Solsystem1.dll
+C:\Users\vefje\source\repos\Solsystem1\Solsystem1\obj\Debug\net6.0\refint\Solsystem1.dll
+C:\Users\vefje\source\repos\Solsystem1\Solsystem1\obj\Debug\net6.0\Solsystem1.pdb
+C:\Users\vefje\source\repos\Solsystem1\Solsystem1\obj\Debug\net6.0\ref\Solsystem1.dll

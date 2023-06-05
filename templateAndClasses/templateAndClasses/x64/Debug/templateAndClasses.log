@@ -1,0 +1,18 @@
+﻿  templateAndClasses.cpp
+C:\Users\vefje\source\repos\templateAndClasses\templateAndClasses\templateAndClasses.cpp(13,12): error C2955: 'ClassT': use of class template requires template argument list
+C:\Users\vefje\source\repos\templateAndClasses\templateAndClasses\templateAndClasses.cpp(3,23): message : see declaration of 'ClassT'
+C:\Users\vefje\source\repos\templateAndClasses\templateAndClasses\templateAndClasses.cpp(13,20): error C2514: 'ClassT': class template cannot be constructed
+C:\Users\vefje\source\repos\templateAndClasses\templateAndClasses\templateAndClasses.cpp(3,23): message : see declaration of 'ClassT'
+C:\Users\vefje\source\repos\templateAndClasses\templateAndClasses\templateAndClasses.cpp(14,21): error C2514: 'ClassT': class template cannot be constructed
+C:\Users\vefje\source\repos\templateAndClasses\templateAndClasses\templateAndClasses.cpp(3,23): message : see declaration of 'ClassT'
+C:\Users\vefje\source\repos\templateAndClasses\templateAndClasses\templateAndClasses.cpp(15,17): error C2662: 'T ClassT<T>::GetVal(void)': cannot convert 'this' pointer from 'ClassT' to 'ClassT<T> &'
+C:\Users\vefje\source\repos\templateAndClasses\templateAndClasses\templateAndClasses.cpp(15,13): message : Reason: cannot convert from 'ClassT' to 'ClassT<T>'
+C:\Users\vefje\source\repos\templateAndClasses\templateAndClasses\templateAndClasses.cpp(15,13): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Users\vefje\source\repos\templateAndClasses\templateAndClasses\templateAndClasses.cpp(7,7): message : see declaration of 'ClassT<T>::GetVal'
+C:\Users\vefje\source\repos\templateAndClasses\templateAndClasses\templateAndClasses.cpp(15,17): message : while trying to match the argument list '()'
+C:\Users\vefje\source\repos\templateAndClasses\templateAndClasses\templateAndClasses.cpp(16,17): error C2662: 'T ClassT<T>::GetVal(void)': cannot convert 'this' pointer from 'ClassT' to 'ClassT<T> &'
+C:\Users\vefje\source\repos\templateAndClasses\templateAndClasses\templateAndClasses.cpp(16,13): message : Reason: cannot convert from 'ClassT' to 'ClassT<T>'
+C:\Users\vefje\source\repos\templateAndClasses\templateAndClasses\templateAndClasses.cpp(16,13): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Users\vefje\source\repos\templateAndClasses\templateAndClasses\templateAndClasses.cpp(7,7): message : see declaration of 'ClassT<T>::GetVal'
+C:\Users\vefje\source\repos\templateAndClasses\templateAndClasses\templateAndClasses.cpp(16,17): message : while trying to match the argument list '()'
+C:\Users\vefje\source\repos\templateAndClasses\templateAndClasses\templateAndClasses.cpp(12): fatal  error C1075: '{': no matching token found

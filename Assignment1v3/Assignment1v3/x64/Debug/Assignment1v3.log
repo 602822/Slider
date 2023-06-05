@@ -1,0 +1,5 @@
+﻿  Assignment1v3.cpp
+C:\Users\vefje\source\repos\Assignment1v3\Assignment1v3\Assignment1v3.cpp(481,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vefje\source\repos\Assignment1v3\Assignment1v3\Assignment1v3.cpp(487,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vefje\source\repos\Assignment1v3\Assignment1v3\Assignment1v3.cpp(754): warning C4715: 'WndProc': not all control paths return a value
+  Assignment1v3.vcxproj -> C:\Users\vefje\source\repos\Assignment1v3\x64\Debug\Assignment1v3.exe
